@@ -1,0 +1,34 @@
+php
+
+protected __construct(){}
+
+quando tu usa parent::__contruct() 
+na classe filha, da erro.
+soh da certo se fosse public
+
+um contrutor pode ter dos nomes: __construct ou nomeDaClasse
+
+o compilador fornece um constructor padrão sem parâmetros em qualquer classe que não inclui explicitamente um construtor
+
+subclasse modifica e melhora
+classe abstrata compartilha design comum
+
+metodo abstrato: declaro mas nao implementado
+
+final class: classe nao pode ser herdada
+
+publico
+protegido 
+privado
+
+pode subir (privado pra protedigo ou public; protegido pra publico) mas nao pode descer
+
+polomorfismo de inclusao: ?
+
+polimorfismo paramétrico: ?
+
+
+classe mae -> metodo1(){echo}
+classe filha -> metodo1(){}
+
+embora n esteja apagando o metodo o comportamento esta sendo apagado

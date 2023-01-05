@@ -1,0 +1,13 @@
+Descendente soh de neto pra baixo
+AC não é descendente de A
+ACA é descendente 
+
+Ancestral soh de avó pra cima
+A não é ancestral de AA
+A é ancestral de AAA
+
+
+Raiz classe original
+Folha ultima filha
+Generalização: ler o grafo de baixo pra cima
+Especialização: ler o grafo de cima pra baixo

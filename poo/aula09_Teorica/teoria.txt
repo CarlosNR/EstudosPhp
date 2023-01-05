@@ -1,0 +1,30 @@
+COMER NAda
+    
+    Confiavel
+    Oportuno
+    Manutenivel
+    Extensivel
+    Reutilisavel
+
+    NAtural
+
+dominio = onde reside o problema
+
+variavel interna === atributo
+
+comportamento === funcionalidades / métodos()
+
+mutante/modificadores = metodo que altera estado do objeto
+
+
+É HP
+    Encapsulamento 
+    Herança
+    Polimorfismo 
+
+Interface = define o que uma entidade pode fazer com um objeto
+Classe    = define atributos e métodos compartilhados
+
+Encapsulamento = permite separar programa em varias partes menores e independentes, de implementação isolada e autonoma. OCULTA DETALHES INTERNOS de cada parte através de uma interface
+
+Abstração = Pegar atributos relevantes
